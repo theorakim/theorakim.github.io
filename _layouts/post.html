@@ -1,6 +1,5 @@
 ---
 layout: default
-comments : true
 ---
 
 <div class="post">
@@ -16,10 +15,7 @@ comments : true
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
-    
-    \{\% if page.comments == true \%\}
-  \{\% include disqus.html \%\}
-\{\% endif \%\}
+   
     
   </div>
 
