@@ -16,6 +16,11 @@ comments : true
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
+    
+    \{\% if page.comments == true \%\}
+  \{\% include disqus.html \%\}
+\{\% endif \%\}
+    
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
@@ -35,3 +40,4 @@ comments : true
 
   <a href="#" class="top">Top</a>
 </div>
+
