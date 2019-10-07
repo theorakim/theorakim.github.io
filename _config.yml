@@ -16,6 +16,7 @@ author:
 # Build settings
 markdown:       kramdown
 include:
+  - _pages
   - _posts
 
 # Assets
