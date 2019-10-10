@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "@ILOVEWORK_True : 제 직업은 회사원입니다"
+title:  "@ILOVEWORK_True : 제 직업은 직장인입니다"
 date:   2019-10-04 16:59:55 +0900
 categories: jekyll update
 ---
