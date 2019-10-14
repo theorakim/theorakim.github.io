@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "@eliesaab : 존재하는 것만으로 우리는 얼마나 귀하고 아름다운가"
+date:   2019-10-14 20:19:55 +0900
+categories: jekyll update
+---
+
+# famme fatal
+
+![i1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c21f8b99-8a74-4d34-bb68-b814d53d43a6/BC158BC6-D74D-4102-8529-5D6A5DD456E8.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAT73L2G45KX6IUZED%2F20191014%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20191014T132112Z&X-Amz-Expires=86400&X-Amz-Security-Token=AgoJb3JpZ2luX2VjEDQaCXVzLXdlc3QtMiJHMEUCIQCLIOyJpZ8D7Ygd%2B2Uj9mFrKvnhx4eg66PKQCwzZYWz9wIgRhtKMXmOdI37VvrrE6z0ISVCImmhaMi6IUSq%2BWJ2P04q2gMILRAAGgwyNzQ1NjcxNDkzNzAiDCzYrjdUWkHoflIBhCq3A8WR%2BToj8xu7GjIMdz8XdLMF%2FCtcD32ElZUqbd6HXrVU377e%2BX%2F8pXNz5yiJZQdIbPGGhgK8a6WcCK0loS0VAkdMil%2FCgqGa%2BUurJHPjFvZ%2FvNTonSZic97q9lNR6IKj9X3DGR0wzh0Z0UeoVYrR%2BBpbapx8uuyeS1V65J%2BqGsmheRISr4Jhhsjt%2FcRHpHCbMNm7ILlvQlP1vqhWtkKWpdtCCUHyaiS4bL6i5QPy7CDdW370sbAp11BSR%2BAmHub78ENJ9M17xq0rsBdpJkEofP22ko1aZY%2F4F%2BH1wLCdUaN%2FzKWMlNQ5Sq9Ti4UsfvqXALs6F55mofCv1iCKvsx6Y6lmphtWcy1%2BskKOX98UB21Qzd0%2FB0ZNqxZxOoupPlIHnQNJ22UV8AJr9PW1Ls8dYGIG1qrp%2Bh%2FmRKts4qlXg%2BhTI71QMJfvxo6oBbLtGWgzsNk2qM5dNOAyfnrpxEkXAwZWmKhIebBkt7rZN%2BD5a5%2B72PLabdRTQyMlNkFEPEdmOW3%2B6gitfRuvljTcek40KqEapQM1QvvrWh%2BPlk7pw%2Fp8560Zn1ma8CMmoo1NrZFH1mFvBDh6gvgw08OR7QU6tAHmDrR2fqQioVS6R%2BPEwXO41axD8pIUhMe4WR6V1pYM7fQDv3P92cGDalUbU7oYsn%2BU7pzrM1f%2BH1tUgPduK%2F%2Futlns91RKAGvvvYYA8HxizUEGQELGozzjyeh0Rwktz4SUxNMGQSAsB%2F1OMGs9MyOBGkjZVdvzp2HTsW9x4Yb2T78XmsY2SB588D21Jmam2HYCVbh1f3ru%2F%2F3hSMNDXXnOeuhWP8GmJVNJDkAFdHQ6T3X847w%3D&X-Amz-Signature=8847fac8b5c56e99ccdf8c3bfeb3b92c146d3141829bb7a3009a393f25102503&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22BC158BC6-D74D-4102-8529-5D6A5DD456E8.jpeg%22)
+
+존재하는 것은 얼마나 귀하고 아름다운가. 라는 말을 바이오에 남겨둔 이 계정은, 온갖 아름다운 것들을 올리는 하이패션 계정이다. 여리여리하고 가는 팔과 다리를 가진 여성을 전시하는 것이 아니라 다양한 피부색, 자연스러운 얼굴, 자유롭지만 부담스럽지는 않은 패션의 여성을 볼 수 있어 좋아하게 된 계정이다.
+
+얇은 팔과 다리, 희고 깨끗한 피부와 작은 얼굴을 한번이라도 꿈꿔보지 않은 사람이 있을까. 다이어트를 한번도 시도해보지 않은 사람은? 얼굴을 하얗게 만들기 위해 파운데이션을, 비비크림을 발라보지 않은 사람은? 있을지도 모르지만, 적어도 나는 아니었다. 어렸을 적부터 키가 큰 편이었고, 피부는 하얀 편이었지만 얼굴의 주근깨와 다크서클은 초등학생때부터 컴플렉스였다. 다른 사람보다 골반이 넓은 체형인데다가 짜고 단 음식을 좋아하는 식습관 덕에 과체중 상태에서 벗어난 적이 없었다. 그럼에도 딱히 외모에 대해 불만은 없었다. 나름 내 얼굴이 괜찮다고 생각했고, 키가 큰 편이라 살이 조금 쪄도 크게 티가 나지 않았다. 또 마음 먹으면 살이 금방 빠지는 터라 크게 스트레스 받지 않았다.
+
+그러다 지옥의 취준 기간동안 고3 때 몸무게를 가뿐히 넘기고, 2019년을 맞이했다. 먹고 앉아서 공부만 하고 활동량이 0에 수렴하는 고3 때의 몸무게를 넘었다는 건 체중에 별 생각이 없는 나로서도 조금 충격적인 일이었다. 전처럼 식단 조절도 해보고, 많이 움직여보고, 헬스장도 다녀봤지만 체중이 잘 줄어들지 않았다. 그렇게 시작하게 된게 마이다노였다. 결론만 말하자면, 3월 마이다노를 시작한 뒤로 7개월이 지난 지금 10kg을 감량했다. 꾸준히 운동을 해와서 기초대사량을 성인 여자 평균보다 높게 올렸고, 체지방량과 근육량의 균형을 잘 맞춰가며 건강하게 체중을 감량했다. 이전에도 다이어트를 해본 적은 있었지만, 많이 감량해봐야 3-4kg 이었지 이렇게 많이 빼본 적은 없어서 10kg을 감량한 뒤의 내 모습이 어색했다. 한동안은 거울 속의 내 모습이 예전과 별 다를 바 없다고도 생각했다. 아직도 몸 구석구석에 살이 남아 있고 이걸 다 빼버려야 한다는 생각도 했다. 체중 감량을 시작하기 전에는 해본 적도 없었던 생각을 하기 시작했다. 다가오지 않은 나의 모습과 나를 비교하기 시작했다.
+
+정말 건강하게 체중 감량을 했는데도, 스스로를 괴롭히고 있었다. 조금만 더 먹으면 다시 살이 쪄버릴 것 같아서 ‘이거 먹으면 살찔 것 같아’ 라는 말을 달고 살았다. 회사에서 만나거나 오랜만에 만나는 사람들이 살이 빠졌다고 이야기하면, 그 말을 지키기 위해서라도 유지를 해야할 것 같았고 또 스트레스가 쌓였다. 그래도 매번 마음을 다잡았다. 나는 잠깐 살을 빼려고 운동하고 식단을 조절하는 게 아니라, 계속 건강하게 내가 입고 싶은 옷을 입으려고 노력하는 것이다 라는 생각. 이전에는 그런 생각을 해본 적이 없었다. 옷 입는 것에 관심도 없었고, 내 골반을 가리는 원피스만 찾아 입고, 사이즈가 큰 옷으로 내 몸을 가리려고 애썼으니까.
+
+![i2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d20bd27-20bf-4659-8274-29484fe9da0a/7F761F16-135A-4C49-8B00-2EE927184FC9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAT73L2G45MKD5VAGT%2F20191014%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20191014T132306Z&X-Amz-Expires=86400&X-Amz-Security-Token=AgoJb3JpZ2luX2VjEDAaCXVzLXdlc3QtMiJHMEUCIQDi42us1e4YM641pvPSJUYNBg6b0WUlWZr2bLNpNx1ieQIgVJPUjkgObDr%2FgYyXpf3ryVDUHE2aTuIj09ghsawSqxYq2gMIKRAAGgwyNzQ1NjcxNDkzNzAiDGxz08Q42plQ0SUWLyq3A0lK%2BkRXY7%2FhsssFnOYbTNwVDE6Vm4beFuKF1NFjDp5NFkHVoL32Ae8zWCQR5BvVHemUgoYsSdW1OTGekJrgdnbbGGrZ4cs%2FTncb%2FDG%2BM8YTPuzMOin1%2BF5WxL4G3jR0MU7CgnpOOafH9yseG7WZoK7C7JC5SqnQxrvOJ%2BQq9GlTVyJv3sK%2BckqEPXEtW65qN1Bu0CknN6gvfWyAaB9lHONjMrWQd6Z6RDXrz8%2FE2h%2BQYAo6XeV2OOpa0aOhbWgAsY%2Fr7gfpDeA2%2FndtBovVn33pupYDT7rhkC2l1GtBX5KRZkLtDaWUfQKw8siAgyXsvgiXrkds3dDKPNVSXnygP4fj3dViU1WUmvyRQUwpkkYnnDvyNnzwW6Pae50mMwpUwNa9nz%2FZ2uCWwhMTnASOBPPPFHESfbIuCnideaA9SP6dd6fGO5nZLTe%2Bhz2a765kciRrGbUCz1sT7WphP4p8CQMeplnKxf5oRXe91ULKaR1y1m7L3lwOK4XGUug%2B1AUKJFPDaCu5k5rPHltDwXuzRFN6LS2q9yAStf5BnglAgfBZQ63Vgv9T%2BNWP9%2F1L751Fw6yfrgGtfDYwlMWQ7QU6tAHCXY56woZhcqW8IkcC8BClncoLAYOoZendRYqwF8Hm2QjaEbCA2ooIDHTHguevx39HPEcxMQB%2F1mr1GSwu1zjTTspZiz1qOkLI3E%2FcMqbybrBf9M6vDcgcLv3o%2BWNW6BNCg%2BsdyaD5p%2BsueBNvL2InXaVZEln6SfR62xjV47KJPOP5W4htkUtKEU2to%2F7WjpPxhpnI17Dz8ogy9sjnUCSd6zN8nq2zrmnKxpqzk3AtrrbNX14%3D&X-Amz-Signature=e3ed30a188c51705ba2290ff330df09942e7fb5dfa11a5aa35de0dbc9e05e81a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%227F761F16-135A-4C49-8B00-2EE927184FC9.jpeg%22)
+
+다양한 몸의 모양, 옷의 다양성을 보면서 조금씩 용기가 생겼다. 팔 다리가 가늘고 여리여리한 몸은 될 수 없지만, 괜찮다. 주근깨 가득한 얼굴이지만, 이 상태로도 충분히 아름답다. 억지로 얼굴을 하얗게하고, 잘 가려지지도 않는 주근깨를 가리려고 아침마다 쿠션을 두드리지 않게 되었고, 부담스러워서 잘 입지 못하던 골반이 타이트하게 붙는 바지도 입게 되었다. 내 몸을 내가 사랑하고, 나의 얼굴을 내가 좋아하면 이제 더이상 다른 건 중요한 게 아니니까.
+
+여전히 거울 속의 모습을 비교하며 괴로워하기도 하고, 다시 살이 쪄버리는 건 아닐까 두려워지는 날도 있다. 누군가 내 하체를 보고 뚱뚱하다고 생각하지 않을까 걱정도 되고, 가끔은 스스로를 대상화해서 바라보기도 한다. 하지만 나는 이전과는 다르다. 내가 좋아하는 화장법, 내가 좋아하는 스타일을 조금씩 찾아나가고 있다. 나의 체형을 가리지 않고 드러내면서 자연스러울 수 있는 방법을 조금씩 알아차리고 있다. 사랑받기 위해 구걸하는 것이 아니라 내가 먼저 사랑을 가득 품고 살아간다. 그 마음이 이제서야 조금씩 차곡차곡 들어차고 있는 기분이다. 그 간의 인간관계가 미안할 만큼, 요즘의 나는 사랑으로 가득 차 있고 행복한 미소를 얼굴에 띄우는 시간을 보내고 있다.
+
+다양한 삶의 모습을 보는 것은, 정말 많은 의미에서 얼마나 중요한 일인지. 존재하는 것 만으로도 우리는 얼마나 귀하고 아름다운지. 그 사실을 스스로 가득 채워서 말하고, 나누는 것이 얼마나 소중한지. 우리 주변이 좀 더 다양한 모습을 보는 것에 익숙했다면, 그도 조금은 자유롭지 않았을까. 조금 더 숨을 편히 쉬면서 세상을 사랑할 수 있지 않았을까. 이제는 더이상 이 세상에 존재하지 않는, 너무나 아름답고 귀했던 그 사람을 생각하며 마음을 꾹꾹 눌러담아 글을 마친다.
+
+
+
